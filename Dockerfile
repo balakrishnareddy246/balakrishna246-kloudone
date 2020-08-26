@@ -1,3 +1,3 @@
 FROM nginx
-ADD /kloudone/html /usr/share/nginx/html
+ADD /kloudonebalakrishna /html /usr/share/nginx/html
 
